@@ -1,4 +1,5 @@
 # base32_pure
+[![CircleCI](https://circleci.com/gh/Whaxion/base32_pure.svg?style=svg)](https://circleci.com/gh/Whaxion/base32_pure)
 
 Encodes and decodes binary string or integer tokens to and from base32.
 
